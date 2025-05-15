@@ -1,0 +1,20 @@
+# Exclude common files
+node_modules
+npm-debug.log
+.git
+.gitignore
+.dockerignore
+Dockerfile
+.env
+.env.*
+README.md
+docs
+
+# Development files
+*.log
+*.md
+*.test.js
+tests/
+__tests__/
+coverage/
+.nyc_output
